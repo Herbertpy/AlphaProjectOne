@@ -1,11 +1,7 @@
 package org.alpha;
 
 public class AlphaOne {
-<<<<<<< HEAD
-	
 
-=======
->>>>>>> 6a4786b8a8d2b7bfc8349d57fc450b65ead9d8d4
 
 	private void vimalOne() {
 		// TODO Auto-generated method stub
@@ -66,12 +62,7 @@ public class AlphaOne {
 		// TODO Auto-generated method stub
 
 	}
-<<<<<<< HEAD
-	
-	
-	
-=======
->>>>>>> 6a4786b8a8d2b7bfc8349d57fc450b65ead9d8d4
+
 
 	public void methodJocinth() {
 
