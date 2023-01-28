@@ -1,6 +1,7 @@
 package org.alpha;
 
 public class AlphaOne {
+	
 
 
 	private void vimalOne() {
@@ -27,6 +28,14 @@ public class AlphaOne {
 
 	}
 	private void muthuTwo() {
+		// TODO Auto-generated method stub
+
+	}
+	private void methodThree() {
+		// TODO Auto-generated method stub
+
+	}
+	private void methodFour() {
 		// TODO Auto-generated method stub
 
 	}
