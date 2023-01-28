@@ -1,6 +1,14 @@
 package org.alpha;
 
 public class AlphaOne {
+	private void methodThree() {
+		// TODO Auto-generated method stub
+
+	}
+	private void methodFour() {
+		// TODO Auto-generated method stub
+
+	}
 
 
 	private void vimalOne() {
