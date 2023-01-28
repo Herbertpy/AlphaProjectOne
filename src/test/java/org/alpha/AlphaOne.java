@@ -48,13 +48,6 @@ public class AlphaOne {
 		// TODO Auto-generated method stub
 
 	}
-	private void muthuSeven() {
-		// TODO Auto-generated method stub
-
-	}
-	private void muthuEight() {
-		// TODO Auto-generated method stub
-
-	}
+	
 
 }
