@@ -67,14 +67,6 @@ public class AlphaOne {
 
 	}
 <<<<<<< HEAD
-	private void muthuSeven() {
-		// TODO Auto-generated method stub
-
-	}
-	private void muthuEight() {
-		// TODO Auto-generated method stub
-
-	}
 	
 	
 	
@@ -86,4 +78,13 @@ public class AlphaOne {
 		System.out.println("Thamizh Vaazhga");
 
 	}
+private void muthuSeven() {
+	// TODO Auto-generated method stub
+
+}
+private void muthuEight() {
+	// TODO Auto-generated method stub
+
+}
+
 }
