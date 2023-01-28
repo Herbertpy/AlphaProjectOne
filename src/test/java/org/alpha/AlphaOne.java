@@ -2,6 +2,7 @@ package org.alpha;
 
 public class AlphaOne {
 
+
 	private void vimalOne() {
 		// TODO Auto-generated method stub
 
@@ -62,9 +63,19 @@ public class AlphaOne {
 
 	}
 
+
 	public void methodJocinth() {
 
 		System.out.println("Thamizh Vaazhga");
 
 	}
+private void muthuSeven() {
+	// TODO Auto-generated method stub
+
+}
+private void muthuEight() {
+	// TODO Auto-generated method stub
+
+}
+
 }
