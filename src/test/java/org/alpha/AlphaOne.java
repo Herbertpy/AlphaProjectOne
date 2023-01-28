@@ -1,14 +1,6 @@
 package org.alpha;
 
 public class AlphaOne {
-	private void muthuNine() {
-		// TODO Auto-generated method stub
-
-	}
-	private void muthuTen() {
-		// TODO Auto-generated method stub
-
-	}
 	
 	
 
@@ -56,6 +48,15 @@ public class AlphaOne {
 		// TODO Auto-generated method stub
 
 	}
+	private void muthuNine() {
+		// TODO Auto-generated method stub
+
+	}
+	private void muthuTen() {
+		// TODO Auto-generated method stub
+
+	}
+	
 	
 
 }
