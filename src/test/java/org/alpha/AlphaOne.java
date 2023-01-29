@@ -79,11 +79,7 @@ private void muthuEight() {
 	// TODO Auto-generated method stub
 
 }
-public void muthuNewOne() {
-	System.out.println("conflick");
-}
-public void muthuNewTwo() {
-	System.out.println("conflick");
-}
 
 }
+
+
