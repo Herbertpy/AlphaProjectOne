@@ -1,12 +1,7 @@
 package org.alpha;
 
 public class AlphaOne {
-	public void muthuNewOne() {
-		System.out.println("conflick");
-	}
-	public void muthuNewTwo() {
-		System.out.println("conflick");
-	}
+	
 	
 
 
@@ -83,6 +78,12 @@ private void muthuSeven() {
 private void muthuEight() {
 	// TODO Auto-generated method stub
 
+}
+public void muthuNewOne() {
+	System.out.println("conflick");
+}
+public void muthuNewTwo() {
+	System.out.println("conflick");
 }
 
 }
