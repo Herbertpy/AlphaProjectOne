@@ -15,6 +15,14 @@ public class AlphaOne {
 		// TODO Auto-generated method stub
 
 	}
+	public void methOne() {
+		// TODO Auto-generated method stub
+
+	}
+	public void methTwo() {
+		// TODO Auto-generated method stub
+
+	}
 
 	private void herbertOne() {
 		// TODO Auto-generated method stub
