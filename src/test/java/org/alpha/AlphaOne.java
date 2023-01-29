@@ -15,14 +15,6 @@ public class AlphaOne {
 		// TODO Auto-generated method stub
 
 	}
-	private void vimalThree() {
-		// TODO Auto-generated method stub
-
-	}
-	private void vimalFour() {
-		// TODO Auto-generated method stub
-
-	}
 	
 
 	private void herbertOne() {
@@ -96,6 +88,15 @@ public void methTwo() {
 	// TODO Auto-generated method stub
 
 }
+private void vimalThree() {
+	// TODO Auto-generated method stub
+
+}
+private void vimalFour() {
+	// TODO Auto-generated method stub
+
+}
+
 
 }
 
