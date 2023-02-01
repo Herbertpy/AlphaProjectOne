@@ -1,14 +1,7 @@
 package org.alpha;
 
 public class AlphaOne {
-	private void herbert1() {
-		// TODO Auto-generated method stub
-
-	}
-
-	private void herbert2() {
-
-	}
+	
 	
 
 
@@ -114,6 +107,14 @@ private void vimal55() {
 private void vimal66() {
 
 	// TODO Auto-generated method stub
+
+}
+private void herbert1() {
+	// TODO Auto-generated method stub
+
+}
+
+private void herbert2() {
 
 }
 }
