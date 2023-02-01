@@ -95,8 +95,18 @@ private void vimalThree() {
 private void vimalFour() {
 	// TODO Auto-generated method stub
 
-}
+} 
 private void vimalFour5() {
+
+}
+private void vimal55() {
+	// TODO Auto-generated method stub
+
+}
+
+private void vimal66() {
+
+	// TODO Auto-generated method stub
 
 }
 }
