@@ -1,7 +1,14 @@
 package org.alpha;
 
 public class AlphaOne {
-	
+	private void herbert1() {
+		// TODO Auto-generated method stub
+
+	}
+
+	private void herbert2() {
+
+	}
 	
 
 
