@@ -1,16 +1,7 @@
 package org.alpha;
 
 public class AlphaOne {
-	private void vimal55() {
-		// TODO Auto-generated method stub
-
-	}
-
-	private void vimal66() {
-
-		// TODO Auto-generated method stub
-
-	}
+	
 	
 
 
@@ -106,6 +97,16 @@ private void vimalFour() {
 
 } 
 private void vimalFour5() {
+
+}
+private void vimal55() {
+	// TODO Auto-generated method stub
+
+}
+
+private void vimal66() {
+
+	// TODO Auto-generated method stub
 
 }
 }
