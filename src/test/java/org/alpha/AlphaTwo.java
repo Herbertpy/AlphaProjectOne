@@ -1,11 +1,11 @@
 package org.alpha;
 
 public class AlphaTwo {
-private void method() {
+private void methodtwo() {
 	// TODO Auto-generated method stub
 
 }
-private void methodOne() {
+private void methodthree() {
 	// TODO Auto-generated method stub
 
 }
