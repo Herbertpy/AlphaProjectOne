@@ -2,13 +2,11 @@ package org.alpha;
 
 public class AlphaOne {
 	
-	
-	
-	private void kishoreone() {
+	private void kishoreThree() {
 		// TODO Auto-generated method stub
 
 	}
-	private void kishoreTwo() {
+	private void kishoreFour() {
 		// TODO Auto-generated method stub
 
 	}
