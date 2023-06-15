@@ -5,16 +5,9 @@ public class AlphaOne {
 	
 
 
-	private void vimalOne() {
-		// TODO Auto-generated method stub
+	
 
-	}
 
-	private void vimalTwo() {
-
-		// TODO Auto-generated method stub
-
-	}
 	
 
 	private void herbertOne() {
@@ -74,6 +67,16 @@ public class AlphaOne {
 	}
 private void muthuSeven() {
 	// TODO Auto-generated method stub
+
+
+}
+private void alphaOne() {
+	// TODO Auto-generated method stub
+
+}
+private void alphaTwo() {
+	// TODO Auto-generated method stub
+	
 
 }
 private void muthuEight() {
