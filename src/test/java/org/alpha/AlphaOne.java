@@ -2,24 +2,12 @@ package org.alpha;
 
 public class AlphaOne {
 
-	private void vimalOne() {
+	private void alphaOne() {
 		// TODO Auto-generated method stub
 
 	}
-
-	private void vimalTwo() {
-
+	private void alphaTwo() {
 		// TODO Auto-generated method stub
-
+		
 	}
-
-	private void herbertOne() {
-		// TODO Auto-generated method stub
-
-	}
-
-	private void herbertTwo() {
-
-	}
-
 }
